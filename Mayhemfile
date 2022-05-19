@@ -1,0 +1,7 @@
+project: rnshah9/lastz
+target: lastz
+image: ghcr.io/rnshah9/playground:lastz
+
+cmds:
+  - cmd: /repo/src/lastz @@
+    filepath: /test.fa
