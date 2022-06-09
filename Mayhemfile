@@ -1,6 +1,6 @@
-project: rnshah9/lastz
+project: lastz
 target: lastz
 
 cmds:
-  - cmd: /repo/src/lastz @@
+  - cmd: /repo/src/lastz /test.fa
     filepath: /test.fa
