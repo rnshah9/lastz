@@ -2,5 +2,5 @@ project: lastz
 target: lastz
 
 cmds:
-  - cmd: /repo/src/lastz /test.fa
+  - cmd: /repo/src/lastz /repo/test.fa /test.fa
     filepath: /test.fa
