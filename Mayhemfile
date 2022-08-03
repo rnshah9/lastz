@@ -3,5 +3,4 @@ target: lastz
 testsuite:
   - file://test.fa
 cmds:
-  - cmd: /repo/src/lastz /repo/test.fa /test.fa
-    filepath: /test.fa
+  - cmd: /lastz /repo/test.fa @@
